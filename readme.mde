@@ -1,0 +1,12 @@
+- En este proyecto sólo se debe conrrer la instalación de dependencias
+
+npm i
+- Abrir el xampp y levantar el servivio
+-Correr la aplicación y probar las rutas manualmente
+
+Probar:
+Para mostrar las películas:
+http://localhost:3001/movies
+
+Para mostrar una película determinada:
+http://localhost:3001/movies/detail/4
